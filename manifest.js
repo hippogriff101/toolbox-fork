@@ -122,29 +122,6 @@ export default [
         fancy: true
       },
       {
-        name: 'Fallout',
-        description:
-          'Build hardware projects, Visit Shenzhen, China!',
-        img: 'https://cdn.hackclub.com/019d2eec-ce13-72cd-92f1-c343bd14f8d3/chineseheidi.gif',
-        background: '#38c9ff',
-        titleColor: '#FFFFFF',
-        descriptionColor: '#FFFFFF',
-        external: true,
-        url: 'https://fallout.hackclub.com?utm_source=toolbox',
-        fancy: true
-      },
-      {
-        name: 'Stasis',
-        description: 'Build hardware projects and fly out to Austin, TX for a hardware hackathon.',
-        img: 'https://cdn.hackclub.com/019cb521-985f-7b28-815c-1512b12b9a63/stasis-logo.png',
-        background: 'https://cdn.hackclub.com/019cb521-9b7a-7faf-b26c-e81d66e42fbb/stasis-banner.png',
-        titleColor: '#4A2006',
-        descriptionColor: '#4A2006',
-        external: true,
-        url: 'https://stasis.hackclub.com?utm_source=toolbox',
-        fancy: true
-      },
-      {
         name: 'Beest',
         description: 'Code projects , Fly to Netherlands , Build a mechanical animal',
         img: 'https://user-cdn.hackclub-assets.com/019e25d8-7e29-71e0-bce2-00d5c860ff33/favicon.webp',
